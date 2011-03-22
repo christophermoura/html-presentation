@@ -55,7 +55,7 @@ function imageContainer_show(img) {
 
 	$('.slideInfo').fadeIn('fast');
 
-	showTimer(5, 'top', img);
+	showTimer(2, 'top', img);
 	
 }
 
