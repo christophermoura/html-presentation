@@ -178,17 +178,8 @@ button {  width: auto; overflow: visible; }
 .slideCredits 						{ position:absolute; bottom:10px; left:10px; color:#fff; text-shadow:1px 1px 3px #000; }
 .slideCredits p						{ padding:10px; font:normal 16px "Museo", Helvetica, Arial, sans-serif; text-align:left; text-shadow:1px 1px 2px #000; color:#CCC; }
 
-
 .timerElement 						{ width:100%; }
 .timerBar 								{ display:block; width:0px; height:5px; background:white; }
-
-
-
-
-
-
-
-
 
 /**
  * Non-semantic helper classes: please define your styles before this section.

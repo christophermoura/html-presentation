@@ -23,7 +23,6 @@ $(function() {
 
 	// initialize SuperBGImage
 	$('#slidesImages').superbgimage();
-
 });
 
 // function callback on hiding image
